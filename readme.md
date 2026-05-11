@@ -4,19 +4,6 @@ Ein Windows-Tool, das Bild-Dateien automatisch nach Jahr und Monat in Ordner sor
 
 > 🚀 **Portable Version** - Keine Python-Installation erforderlich!
 
-## 📋 Inhaltsverzeichnis
-
-- [Features](#features)
-- [Download & Installation](#download--installation)
-- [Verwendung](#verwendung)
-- [Funktionsweise](#funktionsweise)
-- [Ordner-Struktur](#ordner-struktur)
-- [Konfiguration](#konfiguration)
-- [Häufige Probleme](#häufige-probleme)
-- [Für Entwickler](#für-entwickler)
-
----
-
 ## ✨ Features
 
 ✅ **Keine Installation nötig** - Einfach ausführen!  
